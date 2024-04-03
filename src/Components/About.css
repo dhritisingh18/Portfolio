@@ -1,0 +1,36 @@
+.card-container-about{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.about-container{
+    display: flex;
+    height: 100vh;
+}
+
+.carousel-container{
+    display: flex;
+    flex-direction: row;
+    height: 400px;
+    width: 450px;
+    left: 10px;
+    top: 10px; 
+}
+
+
+@media screen and (max-width: 650px) {
+    .about-container {
+        display: flex;
+        flex-direction: column; /* Change direction to column */
+        justify-content: center;
+        align-items: center;
+        height: 250vh;
+    }
+    .card-data{
+        width: 100%;
+        max-width: 100%;
+        overflow: hidden;
+    }
+  
+}
