@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/Portfolio/static/css/main.651fe986.css",
+    "main.js": "/Portfolio/static/js/main.f9d2189a.js",
+    "static/js/453.ace21015.chunk.js": "/Portfolio/static/js/453.ace21015.chunk.js",
+    "static/media/movie.png": "/Portfolio/static/media/movie.5b65e98132ecf954fef3.png",
+    "static/media/warzone.png": "/Portfolio/static/media/warzone.28489c321b3db6f859e2.png",
+    "static/media/insta.png": "/Portfolio/static/media/insta.c9fabb05680f5d8a7fc5.png",
+    "static/media/Dhriti Singh Resume.pdf": "/Portfolio/static/media/Dhriti Singh Resume.75c41cd654059b27a6f0.pdf",
+    "static/media/ProfilePicture.jpg": "/Portfolio/static/media/ProfilePicture.10191024a1b4fb1eacdf.jpg",
+    "static/media/logo.svg": "/Portfolio/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/Portfolio/index.html",
+    "main.651fe986.css.map": "/Portfolio/static/css/main.651fe986.css.map",
+    "main.f9d2189a.js.map": "/Portfolio/static/js/main.f9d2189a.js.map",
+    "453.ace21015.chunk.js.map": "/Portfolio/static/js/453.ace21015.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.651fe986.css",
+    "static/js/main.f9d2189a.js"
+  ]
+}
