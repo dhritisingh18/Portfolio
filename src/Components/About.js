@@ -42,7 +42,6 @@ function About() {
                 <Typography gutterBottom variant="h6" component="div" sx={{ textAlign: "left",lineHeight: '2'}}>
                  I am a seasoned Software Engineer with extensive experience spanning multiple industries, including Dynamic menu creation and ordering flow for channel partners  with Swiggy and Zomato. Specializing in backend development, I have played a pivotal role in architecting and implementing robust systems using technologies like Java, Spring Boot, and OTP using AWS SQS QUEUE. My expertise extends to crafting scalable solutions to complex problems, evident in my work optimizing delivery workflows and enhancing customer experiences at leading food delivery platforms. With proficiency in Java, Spring Boot, OTP, and other technologies, I spearheaded projects like the Chaayos Dine-In Ecommerce App and contributed to innovative solutions. Additionally, my proactive problem-solving approach and effective communication skills consistently drive impactful outcomes in diverse environments.
                 </Typography>
-                <Pagination sx={{color:"white"}} count={10} shape="rounded" />
 
               </CardContent>
            </Card>
