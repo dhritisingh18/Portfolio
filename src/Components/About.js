@@ -38,11 +38,14 @@ function About() {
     width: "100%" // Change maxWidth for screens <= 500px
   },}}>
               <Typography sx={{textAlign:'justify',marginLeft:"10%",marginTop:"11%",fontWeight:"bold" ,fontSize:"60px",color:"#ed8907"}}>About Me</Typography>
-              <CardContent sx={{height:"100%", marginLeft:"5%",marginRight:"5%",marginTop:"2%"}}>
-                <Typography gutterBottom variant="h6" component="div" sx={{ textAlign: "left",lineHeight: '2'}}>
-                 I am a seasoned Software Engineer with extensive experience spanning multiple industries, including Dynamic menu creation and ordering flow for channel partners  with Swiggy and Zomato. Specializing in backend development, I have played a pivotal role in architecting and implementing robust systems using technologies like Java, Spring Boot, and OTP using AWS SQS QUEUE. My expertise extends to crafting scalable solutions to complex problems, evident in my work optimizing delivery workflows and enhancing customer experiences at leading food delivery platforms. With proficiency in Java, Spring Boot, OTP, and other technologies, I spearheaded projects like the Chaayos Dine-In Ecommerce App and contributed to innovative solutions. Additionally, my proactive problem-solving approach and effective communication skills consistently drive impactful outcomes in diverse environments.
+              <CardContent sx={{height:"100%", marginLeft:"5%",marginRight:"5%",marginTop:"2%",overflow: "auto"}}>
+                <Typography gutterBottom variant="h6" component="div" sx={{ textAlign: "left",lineHeight: '2',overflow:"auto"}}>
+                 I am a seasoned Software Engineer with extensive experience spanning multiple industries, including Dynamic menu creation and ordering flow for channel partners  with Swiggy and Zomato. Specializing in backend development, I have played a pivotal role in architecting and implementing robust systems using technologies like Java, Spring Boot, and OTP using AWS SQS QUEUE. My expertise extends to crafting scalable solutions to complex problems, evident in my work optimizing delivery workflows and enhancing customer experiences at leading food delivery platforms. With proficiency in Java, Spring Boot, OTP, and other technologies, I spearheaded projects like the Chaayos Dine-In Ecommerce App and contributed to innovative solutions. 
                 </Typography>
+<<<<<<< Updated upstream
 
+=======
+>>>>>>> Stashed changes
               </CardContent>
            </Card>
          
@@ -50,9 +53,10 @@ function About() {
 
 
                 
-    <Box sx={{ maxWidth:"50%",width: '100%', typography: 'body1',marginTop:"3%" ,'@media screen and (max-width: 500px)': {
+    <Box sx={{ maxWidth:"50%",width: '100%', typography: 'body1',marginTop:"3%" ,'@media screen and (max-width: 650px)': {
     maxWidth: '100%',
-    margin: '5%' // Change maxWidth for screens <= 500px
+    margin: '1%',
+    padding: '2%' // Change maxWidth for screens <= 500px
   },}}>
       <TabContext value={value}>
         <Box >

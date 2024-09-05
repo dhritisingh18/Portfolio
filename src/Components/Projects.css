@@ -1,0 +1,23 @@
+.project-container{
+    width: 100%;
+    height: auto;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+@media screen and (max-width: 650px) {
+    .project-container{
+        height: 450vh;
+        margin-left: 6%;
+        width: 80%;
+        padding: 4%;
+        justify-self: center;
+        align-items: center;
+    }
+   .div-cards{
+    padding: 0%;
+   }
+  
+}
